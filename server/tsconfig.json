@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "noImplicitAny": true,
+        "strict": true,
+        "lib": ["esnext","dom"]
+    },
+    "files" : [
+        "client.ts",
+        "server.ts"
+    ]
+}
